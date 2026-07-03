@@ -1,0 +1,9 @@
+# 密钥和本地环境
+.env
+.streamlit/secrets.toml
+.venv/
+__pycache__/
+*.pyc
+
+# 运行生成的数据
+# data/feedback.csv
